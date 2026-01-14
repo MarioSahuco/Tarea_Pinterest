@@ -14,7 +14,7 @@ El proyecto permite:
 
 ## 🌐 Visitar la página web
 
-[![Abrir Murcia en Imágenes](https://img.shields.io/badge/Ver%20Proyecto-Web-blue?style=for-the-badge)](https://marioskky.github.io/Tarea_Pinterest/)
+[![Abrir Murcia en Imágenes](https://img.shields.io/badge/Ver%20Proyecto-Web-blue?style=for-the-badge)](https://mariosahuco.github.io/Tarea_Pinterest/)
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -31,3 +31,4 @@ El proyecto permite:
  ┣ 📜 estilos.css       # Estilos de Grid y Flex
  ┣ 📜 js/logica.js      # Scripts para filtrado y acciones
  ┗ 📁 img               # Imágenes de ciudades y pueblos
+
